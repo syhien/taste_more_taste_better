@@ -1,4 +1,4 @@
-# taste_more_taste_better
+# Taste More Taste Better
 
 ## Requirements
 
@@ -8,7 +8,7 @@
 
 ## Parameters
 
-Detailed parameters can be found in the [paper](https://arxiv.org/abs/2503.17984). 
+Detailed parameters can be found in the [paper](https://arxiv.org/html/2503.17984v1#S4). 
 
 [train.py](train.py) has set the default parameters.
 
