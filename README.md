@@ -4,7 +4,7 @@
 
 - Python 3 (Latest version recommended)
 - CUDA 11.8 or higher
-- [VMamba](https://github.com/MzeroMiko/VMamba)
+- [VMamba](https://github.com/MzeroMiko/VMamba?tab=readme-ov-file#installation)
 
 ## Parameters
 
