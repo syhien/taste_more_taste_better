@@ -14,4 +14,4 @@ Detailed parameters can be found in the [paper](https://arxiv.org/html/2503.1798
 
 ## Inpainter
 
-We use [Fooocus](https://github.com/lllyasviel/Fooocus) as the inpainter. However, sadly, Fooocus is being deprecated and will not get any new features. We recommend using some other more modern inpainting models, and making your own implementation in the [inpainter.py](inpainter.py) file.
+We use [Fooocus](https://github.com/lllyasviel/Fooocus) / [Fooocus-API](https://github.com/mrhan1993/Fooocus-API) as the inpainter. However, sadly, Fooocus is being deprecated and will not get any new features. We recommend using some other more modern inpainting models, and making your own implementation in the [inpainter.py](inpainter.py) file.
